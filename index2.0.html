@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <title>Challenge01</title>
+    <script src="./js/script.js" defer></script>
+</head>
+<body>
+    <div class="grid">
+        <div class="container1">
+            <textarea id="inputText" placeholder="Ingrese el texto aqui"></textarea>
+        </div>
+        
+        <div class="container2" id="container2">
+            <div class="arriba" id="container2-arriba">
+                <div class="muñeco">
+                    <img src="./img/Muñeco.svg" alt="Muñeco">
+                </div>
+            </div>
+            <div class="abajo" id="container2-abajo">
+                <h2>Ningún mensaje fue encontrado</h2>
+                <p>Ingresa el texto que desees encriptar o desencriptar.</p>
+            </div>
+        </div>
+        
+        <div class="container3">
+            <div class="alert" id="alert">
+                    <img src="./img/Vector2.svg" alt="">
+                    <p>Solo letras minúsculas y sin acentos</p>
+            </div>
+            <div class="buttons">
+                <button id="encriptar" onclick="encriptar()">Encriptar</button>
+                <button id="desencriptar" onclick="desencriptar()">Desencriptar</button>
+            </div>
+        </div>
+    </div>
+</body>
