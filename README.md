@@ -6,14 +6,6 @@ Es una forma de implementar el Challenge Based Learning, es decir, aprendizaje
 basado en desafíos que Apple ayudó a crear. Por medio de estos podrás desafiarte
 a resolver un problema real.
 
-## Challenge One
-
-- [link](https://www.aluracursos.com/challenges/challenge-one-logica)
-- [video](https://youtu.be/BLgio_oPkLw)
-
-El Challenge ONE: Principiante en programación, fue ideado para que coloques en
-práctica los conocimientos que vas adquiriendo mientras realizas los cursos de
-la ruta de aprendizaje.
 
 El desafío está dividido en Sprint
 
@@ -30,15 +22,6 @@ finalmente, podrás publicar tus proyectos, e ir construyendo tu portafolio.
 
 Todo esto mientras comentas y ayudas en proyectos de otros colegas del programa ONE.
 ```
-
-Links Necesarios/Utiles:
-
-- [Trello](https://trello.com/b/WTdfcewC/encriptador-de-texto-alura-challenges-oracle-one)
-Board.
-- [Discord](https://discord.gg/2E5mQEat)
-- Modelo [Figma](https://www.figma.com/file/trP3p5nEh7XUyB3n2bomjP/Alura-Challenge---Desaf%C3%ADo-1---L%C3%B3gica)
-- Figma en el desarrollo [Front End](https://youtu.be/UuAX5azcvDQ)
-
 
 ### Instrucciones
 
@@ -91,10 +74,6 @@ de desarrollo, utilizando el **Trello** de la siguiente forma:
     - Por fin, en la columna **Concluido** estarán los elementos ya concluidos.
 - Pie de página con iformación/links del creador.
 
-### Modelo Figma
-
-![img](./imagenes/modelo_figma.png)
-
 #### Desencripta el mensaje secreto
 
 ```txt
@@ -111,15 +90,9 @@ desafio y haberlo concluido con exito!
 
 </details>
 
-## Proyecto
-
-- [Javascript](./encriptador.js)
-- [Home](./index.html)
-- [Estilo](./style.css)
-- [Repositorio](https://github.com/DevFzn/Oracle_One-Alura_Latam/tree/master/006_challenge_encriptador/README.md)
-- [Sitio](https://github.com#)
 
 ### Sitio web
+https://lucasmurakoshi.github.io/Challenge_Oracle_01/
 
 Lista de tareas challenge encriptador
 
@@ -133,30 +106,12 @@ Lista de tareas challenge encriptador
         - [x] Desarrollar la lógica de desencriptación
     - [x] Conectar función a su respectivo botón en el HTML
     - [x] Capturar el texto escrito en el campo del input del HTML
-- [ ] Área para mostrar el texto encriptado/desencriptado dinámica:
+- [x] Área para mostrar el texto encriptado/desencriptado dinámica:
     - [x] Área para mostrar el texto encriptado/desencriptado
     - [x] Ocultar y mostrar diferentes elementos dependiendo del estado, comenzando
     con una imagen que debe ser substituida por el texto encriptado/desencriptado
 - [x] Trabajar estilos
 
-#### Recursos
-
-- Modelo en
-[Figma](https://www.figma.com/file/trP3p5nEh7XUyB3n2bomjP/Alura-Challenge---Desaf%C3%ADo-1---L%C3%B3gica)
-- HTML - [input](https://developer.mozilla.org/es/docs/Web/HTML/Element/input)
-- HTML - [textarea](https://developer.mozilla.org/es/docs/Web/HTML/Element/textarea)
-- Imagen [input](./imagenes/input.png) trello.
-- HTML - DOM [Style display](https://www.w3schools.com/jsref/prop_style_display.asp)
-Property
-- Imagen [1](./imagenes/1.png) area de texto desencriptado
-- Imagen [2](./imagenes/2.png) area de texto desencriptado
-- Imagen boton [encriptar](./imagenes/boton-enc.png)
-- Imagen boton [desencriptar](./imagenes/)
-- Interact with the [clipboard](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard)
-- [Clipboard](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API) API
-- Configuración de [Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez)
-- Subir proyecto a [GitHub](https://www.youtube.com/watch?v=bhKkeOMysuw)
-- Crear Github [page](https://developer.mozilla.org/es/docs/Learn/Common_questions/Tools_and_setup/Using_Github_pages)
 
 ## Entrega
 
